@@ -6,10 +6,6 @@ class App extends React.Component{
     return(
       <div>
         <h1>Pie Decider!</h1>
-        <h2>{this.props.data.question.body}</h2>
-        <Answers
-          answers={this.props.data.answers}
-        />
       </div>
     )
   }
