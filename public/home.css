@@ -1,0 +1,28 @@
+body {
+  background-color: #effde3;
+
+}
+
+h1 {
+  color: #45ba89;
+}
+
+h2 {
+  color: #3c9bc3;
+}
+
+ul {
+  /* Wrap the list in a green box. */
+  /* width: 300px; */
+  /* border: 1px solid #00ff00; */
+  color: #358DF7;
+}
+
+li {
+  /* Add a bit more spacing between list items. */
+  /* padding: 5px; */
+}
+
+.selected {
+  color: #f66923;
+}
